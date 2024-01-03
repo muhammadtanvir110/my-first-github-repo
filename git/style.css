@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+}
+.blog{
+    background-color: aqua;
+    border: 10px solid tomato;
+    /* border-radius: 10px; */
+    /* border-bottom: none; */
+    /* border-top: 20px solid yellow; */
+    /* margin: 15px 60px; */
+    margin: 15px 60px 30px 0px;
+}
+.second{
+  /* display: none;
+    visibility: hidden;   */
+}
+.blog{
+    margin: 40px;
+    border: 10px solid tomato;
+    box-shadow: 10px 10px 20px blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+}
+html{
+    background-color: palevioletred;
+}
